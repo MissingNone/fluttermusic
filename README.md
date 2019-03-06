@@ -13,3 +13,5 @@ flutter version 1.2.1
 打包
 
 flutter build apk
+
+由于开发环境是 window,开发工具为 vsc.IOS 版本的有条件的自行打包查看.
