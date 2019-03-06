@@ -5,6 +5,7 @@
 ## Getting Started
 
 cd fluttermusic
+
 flutter run
 
 flutter version 1.2.1
