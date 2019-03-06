@@ -1,16 +1,14 @@
 # fluttermusic
 
-A new Flutter project.
+界面基于 [Vue 实战音乐 App](https://coding.imooc.com/class/107.html)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+cd fluttermusic
+flutter run
 
-A few resources to get you started if this is your first Flutter project:
+flutter version 1.2.1
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+打包
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+flutter build apk
